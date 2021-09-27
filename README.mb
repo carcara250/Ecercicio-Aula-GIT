@@ -1,0 +1,26 @@
+# GIT E GITHUB
+
+
+Guia Pratico para Iniciantes
+
+
+#ESENEC
+[X] CRIANDO PONTO NA SUA HISTORIA, VISUALIZANDO O PONTO
+[X] Voce deseja visualizar mudanças no seu projeto
+
+[x] Você começa uma nomva funcionalidade em seu projeto, sem estragar o que ja foi feito.
+[x] Você adiciona as novas funcionalidades ao seu projeto em execução.
+[x] Você quer deletar a branch da nova funcionalidade., depois de aplicar em seu projeto. 
+
+[x] Você quer colocar seu projeto na nuvem
+
+
+Principais comandos
+
+* git init // inicia a linha do tempo
+* git add  // adiciona ou atualiza alterações em seu projeto
+* git commit // adiciona um ponto na linha do tempo
+* git log // visualisa os pontos da linha do tempo / commit
+* git status // Informa o estado de alteração do nosso projeto
+* git show // apresenta determidao ponto da historia
+* git clone // clona um repositorio para seu projeto
